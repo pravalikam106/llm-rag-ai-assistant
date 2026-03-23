@@ -1,0 +1,7 @@
+Python is a popular programming language used for backend development.
+
+FastAPI is a modern Python framework used to build APIs quickly and efficiently.
+
+Machine learning enables systems to learn patterns from data.
+
+Azure OpenAI provides access to GPT models for building AI applications.
